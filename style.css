@@ -1,0 +1,15 @@
+.title{
+    width: 100%;
+    text-align: left;
+    
+}
+.title h1{
+    display: inline;
+    color: aliceblue;
+  
+}
+.title button{
+   
+   float: right;
+    
+}
